@@ -1,0 +1,30 @@
+* 1.0.5 - 20/02/2016
+====================
+- Fixed: issue with anchors in post content
+
+
+* 1.0.4 - 04/02/2016
+====================
+- Added: prefix on endpoint function
+- Fixed: wrong file name on php include
+
+
+* 1.0.3 - 03/02/2016
+====================
+- Chaged: Screenshot
+
+
+* 1.0.2 - 02/02/2016
+====================
+- Prefixed: nav function
+- Added: License and links for images used in screenshot
+
+
+* 1.0.1 - 04/01/2016
+====================
+- Complete Theme Update
+
+
+* 1.0.0 - 14/10/2015
+====================
+- Released
