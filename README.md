@@ -1,4 +1,4 @@
-# Explorarea-Grafurilor
+# Explorarea-grafurilor
 
 Website created with the purpose of teaching students graph exploration algorithms.
 
